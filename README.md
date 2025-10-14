@@ -6,11 +6,6 @@
 
 ---
 
-## Poster  
-You can view the poster here: (poster/HOLAS_Research_Poster_BTI-BAP Conference.pdf)
-
----
-
 ## Authors  
 Leonardo Andres Blanco*, Morgan Pedus*, Sreeram Marimuthu, Andy Nguyen Dinh, Franchesca Castro-Ramirez, Nubia A. Mayorga, Adrian J. Bravo, Jenny Zhen-Duan & Hispanic Addiction Research Team  
 (* = co-first authors)
