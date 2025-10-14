@@ -1,4 +1,4 @@
-# Latent Profiles of Adverse Childhood Experiences and Alcohol and Drug Use in Latino College Students
+# Latent Profiles of Adverse Childhood Experiences and Substance Use in Latino College Students
 
 **Presented at:** Broad Trauma Initiative & Biology of Adversity Project Convening, Broad Institute of MIT & Harvard  
 **Date:** October 9, 2025  
@@ -7,7 +7,7 @@
 ---
 
 ## Poster  
-You can view the poster here: (./poster/HOLAS_Research_Poster_BTI-BAP-Conference.pdf)
+You can view the poster here: (./poster/HOLAS_Research_Poster_BTI-BAP Conference.pdf)
 
 ---
 
