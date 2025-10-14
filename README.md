@@ -7,7 +7,7 @@
 ---
 
 ## Poster  
-You can view the poster here: (./poster/HOLAS_Research_Poster_BTI-BAP Conference.pdf)
+You can view the poster here: (poster/HOLAS_Research_Poster_BTI-BAP Conference.pdf)
 
 ---
 
