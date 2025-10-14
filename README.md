@@ -2,7 +2,7 @@
 
 **`PRESENTED AT:`** Broad Trauma Initiative & Biology of Adversity Project Convening, Broad Institute of MIT & Harvard  
 **`DATE:`** October 9, 2025  
-**`TYPE:`** Research Poster Presentation  
+**`TYPE:`** Research Poster   
 
 
 ## Authors  
