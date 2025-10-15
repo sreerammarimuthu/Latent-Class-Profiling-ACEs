@@ -1,6 +1,7 @@
 # Latent Profiles of Adverse Childhood Experiences and Substance Use in Latino College Students
 
 **`PRESENTED AT:`** Broad Trauma Initiative & Biology of Adversity Project Convening, Broad Institute of MIT & Harvard  
+**`LOCATION:`** Boston, MA   
 **`DATE:`** October 9, 2025  
 **`TYPE:`** Research Poster   
 
